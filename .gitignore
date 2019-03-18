@@ -327,7 +327,6 @@ venv.bak/
 .mypy_cache/
 
 # Custom
-/Latex-Templates/
 
 .vscode
 *.jar
